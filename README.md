@@ -22,9 +22,8 @@ I-Type: lw, sw, bew, addi
 
 J-Type: j
 
-![](./media/image1.png)
+![Figure : Single Cycle Processor Block Diagram](Single_Cycle_Processor_Block_Diagram.PNG)
 
-Figure : Single Cycle Processor Block Diagram
 
 **Instruction
 Set:**
